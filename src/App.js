@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
         <p><h1>Genderson Vergara</h1></p>
-         Section A
+         <h2>Section A</h2>
         </a>
       </header>
     </div>
