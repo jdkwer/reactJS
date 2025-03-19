@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        <p><h1>Genderson Vergara</h1></p>
+         Section A
         </a>
       </header>
     </div>
